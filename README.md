@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Anastasiia! 👋
+
+I am an experienced **React Developer** with over 5 years of experience in building web applications, working with components, and client-side architecture. I enjoy solving complex problems, optimizing app performance, and applying modern technologies in development.
+
+## 🛠️ Skills and Technologies
+
+### Languages:
+- **JavaScript (ES6+), TypeScript**
+- HTML5, CSS3 (Sass, Styled Components)
+
+### Libraries and Frameworks:
+- **React** (Hooks, Context API, Suspense, Error Boundaries)
+- **Redux**, React Query for state management
+- **AngularJS**
+
+### Tools and Environment:
+- **Git**, GitHub, Bitbucket
+- **Vite**, Webpack
+- **Jest**, React Testing Library for unit and integration testing
+- **ESLint**, Prettier for code formatting
+- **Figma** for UI design collaboration
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+
