@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **atsvetkova7/atsvetkova7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,6 +36,6 @@ I am an experienced **React Developer** with over 5 years of experience in build
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atsvetkova7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsvetkova7&layout=compact&theme=radical)
 
